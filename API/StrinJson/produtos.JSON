@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "nome": "Notebook XPS 13",
+      "marca": "Dell",
+      "categoria": "Informática",
+      "preco": 4956.95,
+      "quantidade_estoque": 25,
+      "disponivel_pronta_entrega": true
+    },
+    {
+      "id": 2,
+      "nome": "Smartphone Galaxy S21",
+      "marca": "Samsung",
+      "categoria": "Telefonia",
+      "preco": 3999.99,
+      "quantidade_estoque": 50,
+      "disponivel_pronta_entrega": true
+    },
+    {
+      "id": 3,
+      "nome": "Televisão OLED 55\"",
+      "marca": "LG",
+      "categoria": "Eletrônicos",
+      "preco": 3999.00,
+      "quantidade_estoque": 10,
+      "disponivel_pronta_entrega": false
+    }
+  ]
+  
